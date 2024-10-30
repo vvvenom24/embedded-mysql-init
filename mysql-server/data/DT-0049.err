@@ -1,0 +1,9 @@
+2024-10-29T07:02:55.452512Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2024-10-29T07:02:55.453511Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-29T07:02:55.453511Z 0 [Note] D:\virtual-device\mysql-server\bin\mysqld.exe (mysqld 5.7.9) starting as process 2996 ...
+2024-10-29T07:11:21.001761Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2024-10-29T07:11:21.001761Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-29T07:11:21.002754Z 0 [Note] D:\virtual-device\mysql-server\bin\mysqld.exe (mysqld 5.7.9) starting as process 6936 ...
+2024-10-29T09:56:43.056160Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2024-10-29T09:56:43.056160Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-10-29T09:56:43.057159Z 0 [Note] D:\virtual-device\mysql-server\bin\mysqld.exe (mysqld 5.7.9) starting as process 13892 ...
